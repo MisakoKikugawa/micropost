@@ -20,7 +20,7 @@
                 </div>
                 
                 <div class="form-group">
-                    {!! Form::label('password','Password) !!}
+                    {!! Form::label('password','Password') !!}
                     {!! Form::password('password',['class' => 'form-control']) !!}
                 </div>
                 
